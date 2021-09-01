@@ -1,5 +1,9 @@
 ## Welcome to Lizzie Mayes's Homepage
 
+# Data sets
+The dataset I chose that interests me is the NOAA Climactic Dataset found on the NOAA National Centers for Environmental Information website. The potential uses for the datasetsare weather and climate data taken from marine, land-based and weather balloon collection that can be used in modeling predictions for climate change, or as environmental variables in ecological studies (such as temperature affects on species ranges).   The link to the site is: [NOAA Climate Data](https://www.ncdc.noaa.gov/data-access). 
+
+
 You can use the [editor on GitHub](https://github.com/lizziemayes/lizziemayes.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
